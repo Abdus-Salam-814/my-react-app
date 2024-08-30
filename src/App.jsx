@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Counter from './Counter'
 import Friends from './Friends'
-
+import Postes from './Posts'
 
 function App() {
   
@@ -14,7 +14,9 @@ function App() {
     
       <h1>Vite + React</h1>
      <Counter></Counter>
+     <Postes></Postes>
      <Friends></Friends>
+
      
      
     </>
